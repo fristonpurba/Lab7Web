@@ -28,7 +28,7 @@
   ![Imgur-5](https://i.imgur.com/191RBrm.png)
 
 - Untuk melihat hasilnya melalui URL: [http://localhost/Lab7Web/lab7_php_dasar/php_dasar.php](http://localhost/Lab7Web/lab7_php_dasar/php_dasar.php).
-  ![Imgur-6](https://i.imgur.com/a5Jo2qn.png)
+  ![Imgur](https://i.imgur.com/ltcPkgT.png)
 
 - Selanjutnya menambahkan variabel pada program.
   ![Imgur-7](https://i.imgur.com/jBgrIlE.png)
