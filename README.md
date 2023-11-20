@@ -22,7 +22,7 @@
   ![Imgur-3](https://i.imgur.com/CrBkimP.png)
 
 - Selanjutnya membuat folder baru dengan nama `lab7_php_dasar` di direktory `\xampp\htdocs\Lab7Web\lab7_php_dasar` untuk mengakses direktory pada web server menggunakan `URL:`[http://localhost/Lab7Web/](http://localhost/Lab7Web/).
-  ![Imgur-4](https://i.imgur.com/6BITlvs.png)
+  ![Imgur-4](https://i.imgur.com/SLjyok7.jpg)
 
 - Lalu didalam file `lab7_php_dasar` buat file baru dengan nama file `php_dasar.php` kemudian buat kodenya seprti berikut.
   ![Imgur-5](https://i.imgur.com/191RBrm.png)
